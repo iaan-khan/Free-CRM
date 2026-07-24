@@ -159,22 +159,4 @@ Users are required to retain the footer link in all instances of this software a
 
 # Starred  
 If you find this project useful, please consider supporting us by giving a star on GitHub! ⭐  
-Your support keeps us motivated and helps us continue developing and improving this project to deliver even greater value to the community.   
-
-
-# 🌱 Help Us Grow!  
-Please help us grow by sharing it with your friends, family, and colleagues!  
-Every share helps us reach more people, grow the community, and continue improving this open-source project. ❤️  
- 
-
-# One Last Kiss ❤️  
-
-Thanks for stopping by and reading this far! This project is supported by **INDOTALENT**
-
-🌐 Feel free to visit: [https://indotalent.com](https://indotalent.com)  
-
-[![store-indotalent](https://indotalent.com/img/indotalent-hero.png)](https://indotalent.com)
-
-
-
-
+Your support keeps us motivated and helps us continue developing and improving this project to deliver even greater value to the community.
